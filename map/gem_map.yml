@@ -1,0 +1,10 @@
+---
+module:
+  name: "ui.alias"
+uis:
+  - name: ui.alias
+actions:
+  javascript:
+    include?: true
+  module:
+    include?: true
